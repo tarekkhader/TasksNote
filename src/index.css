@@ -1,0 +1,46 @@
+.IconButton {
+  transition: all 0.2 !important;
+  -webkit-transition: all 0.2 !important;
+  -moz-transition: all 0.2 !important;
+  -ms-transition: all 0.2 !important;
+  -o-transition: all 0.2 !important;
+}
+.IconButton:hover {
+  background-color: #c5c5c5 !important;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+.todocard {
+  transition: all 0.2 !important;
+  -webkit-transition: all 0.2 !important;
+  -moz-transition: all 0.2 !important;
+  -ms-transition: all 0.2 !important;
+  -o-transition: all 0.2 !important;
+}
+.todocard:hover {
+  padding-bottom: 20px;
+  padding-top: 20px;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+/* fonts */
+@font-face {
+  font-family: Alex;
+  src: url("../public/fonts/Alexandria-Regular.ttf");
+  font-weight: normal;
+}
+@font-face {
+  font-family: Alex;
+  src: url("../public/fonts/Alexandria-Bold.ttf");
+  font-weight: bold;
+}
+@font-face {
+  font-family: Alex;
+  src: url("../public/fonts/Alexandria-Black.ttf");
+  font-weight: 900;
+}
+@font-face {
+  font-family: Alex;
+  src: url("../public/fonts/Alexandria-Light.ttf");
+  font-weight: 200;
+}
+/*===> fonts <=== */
